@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  dllmain.cpp
+  DLL_Cpp.cpp
+C:\Programowanie\JA Projekt\DLL_C\DLL_Cpp.cpp(7,1): warning C4273: "Filtration": niespójne powiązanie biblioteki dll
+C:\Programowanie\JA Projekt\DLL_C\DLL_Cpp.h(9,26): message : zobacz poprzednią definicję „Filtration”
+  Generowanie kodu...
+     Trwa tworzenie biblioteki C:\Programowanie\JA Projekt\x64\Debug\DLL_Cpp.lib i obiektu C:\Programowanie\JA Projekt\x64\Debug\DLL_Cpp.exp
+  DLL_C.vcxproj -> C:\Programowanie\JA Projekt\x64\Debug\DLL_Cpp.dll

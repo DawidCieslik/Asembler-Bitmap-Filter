@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  dllmain.cpp
+  DLL_Cpp.cpp
+C:\Programowanie\Asembler-Bitmap-Filter\DLL_C\DLL_Cpp.cpp(4,6): warning C4273: "Filtration": niespójne powiązanie biblioteki dll
+C:\Programowanie\Asembler-Bitmap-Filter\DLL_C\DLL_Cpp.h(9,29): message : zobacz poprzednią definicję „Filtration”
+  Generowanie kodu...
+     Trwa tworzenie biblioteki C:\Programowanie\Asembler-Bitmap-Filter\x64\Release\DLL_Cpp.lib i obiektu C:\Programowanie\Asembler-Bitmap-Filter\x64\Release\DLL_Cpp.exp
+  LINK : określono opcję /LTCG, lecz generowanie kodu nie było wymagane; usuń opcję /LTCG z wiersza polecenia konsolidatora w celu podwyższenia wydajności konsolidatora
+  DLL_C.vcxproj -> C:\Programowanie\Asembler-Bitmap-Filter\x64\Release\DLL_Cpp.dll

@@ -1,0 +1,3 @@
+LIBRARY "DLL_Asm"
+EXPORTS
+Filtration

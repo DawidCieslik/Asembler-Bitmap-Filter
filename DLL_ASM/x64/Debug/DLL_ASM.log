@@ -1,0 +1,5 @@
+﻿  Assembling DLL_Asm.asm...
+  pch.cpp
+  dllmain.cpp
+     Trwa tworzenie biblioteki C:\Programowanie\JA Projekt\x64\Debug\DLL_Asm.lib i obiektu C:\Programowanie\JA Projekt\x64\Debug\DLL_Asm.exp
+  DLL_ASM.vcxproj -> C:\Programowanie\JA Projekt\x64\Debug\DLL_Asm.dll
